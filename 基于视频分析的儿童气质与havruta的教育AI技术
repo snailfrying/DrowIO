@@ -1,1 +1,69 @@
-<mxfile host="app.diagrams.net" modified="2021-08-18T09:26:20.223Z" agent="5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.121 Safari/537.36" version="14.9.6" etag="rw5LiIMbsO72VCiveOAx" type="github"><diagram id="ak9wPlArenI9kpk4pB7r">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2021-08-18T09:35:33.918Z" agent="5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.121 Safari/537.36" etag="3in0jBX2gkaFFwBITXe0" version="14.9.6" type="github">
+  <diagram id="ak9wPlArenI9kpk4pB7r" name="Page-1">
+    <mxGraphModel dx="1422" dy="753" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="RTsge8X5BYDM43oE2wi2-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="RTsge8X5BYDM43oE2wi2-1" target="RTsge8X5BYDM43oE2wi2-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="RTsge8X5BYDM43oE2wi2-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.642;entryY=0.017;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="RTsge8X5BYDM43oE2wi2-1" target="RTsge8X5BYDM43oE2wi2-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="RTsge8X5BYDM43oE2wi2-1" value="havruta视频交互方案" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="420" y="230" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="RTsge8X5BYDM43oE2wi2-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="RTsge8X5BYDM43oE2wi2-2" target="RTsge8X5BYDM43oE2wi2-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="RTsge8X5BYDM43oE2wi2-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="RTsge8X5BYDM43oE2wi2-2" target="RTsge8X5BYDM43oE2wi2-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="RTsge8X5BYDM43oE2wi2-2" value="人工智能儿童气质、行为分析" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="290" y="310" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="RTsge8X5BYDM43oE2wi2-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="RTsge8X5BYDM43oE2wi2-3" target="RTsge8X5BYDM43oE2wi2-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="RTsge8X5BYDM43oE2wi2-3" value="儿童心理学家行为分析" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="540" y="310" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="RTsge8X5BYDM43oE2wi2-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="RTsge8X5BYDM43oE2wi2-4" target="RTsge8X5BYDM43oE2wi2-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="RTsge8X5BYDM43oE2wi2-4" value="视频数据分析" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="180" y="390" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="RTsge8X5BYDM43oE2wi2-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="RTsge8X5BYDM43oE2wi2-5">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="360" y="490" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RTsge8X5BYDM43oE2wi2-5" value="视频交互日志分析" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="420" y="390" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="RTsge8X5BYDM43oE2wi2-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="RTsge8X5BYDM43oE2wi2-6" target="RTsge8X5BYDM43oE2wi2-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="RTsge8X5BYDM43oE2wi2-6" value="识别儿童气质与行为特点" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="300" y="490" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="RTsge8X5BYDM43oE2wi2-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="RTsge8X5BYDM43oE2wi2-7" target="RTsge8X5BYDM43oE2wi2-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="RTsge8X5BYDM43oE2wi2-7" value="儿童havruta教育行为报告" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="540" y="490" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="RTsge8X5BYDM43oE2wi2-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="RTsge8X5BYDM43oE2wi2-8" target="RTsge8X5BYDM43oE2wi2-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="RTsge8X5BYDM43oE2wi2-8" value="优化儿童havruta教育方案规则" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="420" y="570" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="RTsge8X5BYDM43oE2wi2-9" value="实现儿童havruta教育方案个性化推荐" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="420" y="660" width="120" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
