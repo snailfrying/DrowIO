@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-08-18T09:35:33.918Z" agent="5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.121 Safari/537.36" etag="3in0jBX2gkaFFwBITXe0" version="14.9.6" type="github">
+<mxfile host="app.diagrams.net" modified="2021-08-18T09:38:02.677Z" agent="5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.121 Safari/537.36" etag="iAfxk5xU5tWhi4D7z2Nx" version="14.9.6" type="github">
   <diagram id="ak9wPlArenI9kpk4pB7r" name="Page-1">
     <mxGraphModel dx="1422" dy="753" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -59,6 +59,9 @@
         </mxCell>
         <mxCell id="RTsge8X5BYDM43oE2wi2-8" value="优化儿童havruta教育方案规则" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="420" y="570" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="RTsge8X5BYDM43oE2wi2-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="RTsge8X5BYDM43oE2wi2-9" target="RTsge8X5BYDM43oE2wi2-2">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="RTsge8X5BYDM43oE2wi2-9" value="实现儿童havruta教育方案个性化推荐" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="420" y="660" width="120" height="60" as="geometry" />
