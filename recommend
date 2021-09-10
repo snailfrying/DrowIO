@@ -1,10 +1,10 @@
-<mxfile host="app.diagrams.net" modified="2021-09-10T10:45:01.324Z" agent="5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.121 Safari/537.36" etag="FiNsBFut51BdXCZpAjns" version="15.1.4" type="github">
+<mxfile host="app.diagrams.net" modified="2021-09-10T10:49:23.177Z" agent="5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.121 Safari/537.36" etag="LzWMxe8GtrFnhOxJm_3p" version="15.1.4" type="github">
   <diagram id="wd0r1VHoNIpmPi-p-aIX" name="Page-1">
     <mxGraphModel dx="1422" dy="753" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="QA3_2KCFl8gUlD9wWIVT-1" value="NeuralCF" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="QA3_2KCFl8gUlD9wWIVT-1" value="NeuralCF" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#F19C99;" vertex="1" parent="1">
           <mxGeometry x="374.88" y="410" width="100" height="50" as="geometry" />
         </mxCell>
         <mxCell id="QA3_2KCFl8gUlD9wWIVT-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0;exitDx=0;exitDy=0;entryX=1;entryY=0.75;entryDx=0;entryDy=0;fontFamily=Helvetica;" edge="1" parent="1" source="QA3_2KCFl8gUlD9wWIVT-3" target="QA3_2KCFl8gUlD9wWIVT-48">
@@ -34,13 +34,13 @@
         <mxCell id="QA3_2KCFl8gUlD9wWIVT-40" value="因子分解的隐向量作为&lt;br&gt;Embedding初始化值" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontFamily=Helvetica;" edge="1" parent="1" source="QA3_2KCFl8gUlD9wWIVT-3" target="QA3_2KCFl8gUlD9wWIVT-14">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="QA3_2KCFl8gUlD9wWIVT-3" value="DNN/Multi-layer Perceptron" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="QA3_2KCFl8gUlD9wWIVT-3" value="DNN/Multi-layer Perceptron" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#EA6B66;" vertex="1" parent="1">
           <mxGeometry x="340" y="525" width="170" height="55" as="geometry" />
         </mxCell>
         <mxCell id="QA3_2KCFl8gUlD9wWIVT-38" value="加入&lt;br&gt;Product层" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;fontFamily=Helvetica;" edge="1" parent="1" source="QA3_2KCFl8gUlD9wWIVT-4" target="QA3_2KCFl8gUlD9wWIVT-13">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="QA3_2KCFl8gUlD9wWIVT-4" value="Deep Crossing" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="QA3_2KCFl8gUlD9wWIVT-4" value="Deep Crossing" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#97D077;" vertex="1" parent="1">
           <mxGeometry x="660" y="430" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="QA3_2KCFl8gUlD9wWIVT-26" value="加入ARGRU序列模型&lt;br&gt;建模兴趣演化" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontFamily=Helvetica;" edge="1" parent="1" source="QA3_2KCFl8gUlD9wWIVT-47" target="QA3_2KCFl8gUlD9wWIVT-15">
@@ -54,25 +54,25 @@
         <mxCell id="QA3_2KCFl8gUlD9wWIVT-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;fontFamily=Helvetica;" edge="1" parent="1" source="QA3_2KCFl8gUlD9wWIVT-7" target="QA3_2KCFl8gUlD9wWIVT-18">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="QA3_2KCFl8gUlD9wWIVT-7" value="Wide&amp;amp;Deep" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="QA3_2KCFl8gUlD9wWIVT-7" value="Wide&amp;amp;Deep" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#F8CECC;" vertex="1" parent="1">
           <mxGeometry x="380.25" y="630" width="100" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="QA3_2KCFl8gUlD9wWIVT-8" value="DRN" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="QA3_2KCFl8gUlD9wWIVT-8" value="DRN" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#97D077;" vertex="1" parent="1">
           <mxGeometry x="660" y="530" width="100" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="QA3_2KCFl8gUlD9wWIVT-13" value="PNN" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="QA3_2KCFl8gUlD9wWIVT-13" value="PNN" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#B9E0A5;" vertex="1" parent="1">
           <mxGeometry x="840" y="430" width="100" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="QA3_2KCFl8gUlD9wWIVT-14" value="FNN" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="QA3_2KCFl8gUlD9wWIVT-14" value="FNN" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#97D077;" vertex="1" parent="1">
           <mxGeometry x="660" y="595" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="QA3_2KCFl8gUlD9wWIVT-27" value="加入胶囊网络" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontFamily=Helvetica;" edge="1" parent="1" source="QA3_2KCFl8gUlD9wWIVT-15" target="QA3_2KCFl8gUlD9wWIVT-16">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="QA3_2KCFl8gUlD9wWIVT-15" value="DIEN" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="QA3_2KCFl8gUlD9wWIVT-15" value="DIEN" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#B9E0A5;" vertex="1" parent="1">
           <mxGeometry x="90" y="600" width="80" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="QA3_2KCFl8gUlD9wWIVT-16" value="MIND" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="QA3_2KCFl8gUlD9wWIVT-16" value="MIND" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#D5E8D4;" vertex="1" parent="1">
           <mxGeometry x="90" y="670" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="QA3_2KCFl8gUlD9wWIVT-31" value="将Wide部分替换成&lt;br&gt;Cross Layer Network" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontFamily=Helvetica;" edge="1" parent="1" source="QA3_2KCFl8gUlD9wWIVT-17" target="QA3_2KCFl8gUlD9wWIVT-19">
@@ -83,7 +83,7 @@
         <mxCell id="QA3_2KCFl8gUlD9wWIVT-32" value="将Wide部分由LR&lt;br&gt;替换成FM" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontFamily=Helvetica;" edge="1" parent="1" source="QA3_2KCFl8gUlD9wWIVT-17" target="QA3_2KCFl8gUlD9wWIVT-20">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="QA3_2KCFl8gUlD9wWIVT-17" value="Wide部分改进" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Helvetica;" vertex="1" parent="1">
+        <mxCell id="QA3_2KCFl8gUlD9wWIVT-17" value="Wide部分改进" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Helvetica;fillColor=#67AB9F;" vertex="1" parent="1">
           <mxGeometry x="240" y="700" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="QA3_2KCFl8gUlD9wWIVT-33" value="将Deep部分加入&lt;br&gt;Attention Net" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;fontFamily=Helvetica;" edge="1" parent="1" source="QA3_2KCFl8gUlD9wWIVT-18" target="QA3_2KCFl8gUlD9wWIVT-21">
@@ -94,16 +94,16 @@
         <mxCell id="QA3_2KCFl8gUlD9wWIVT-36" value="将Deep部分替换成有&lt;br&gt;Bi-interaction层的MLP" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;fontFamily=Helvetica;" edge="1" parent="1" source="QA3_2KCFl8gUlD9wWIVT-18" target="QA3_2KCFl8gUlD9wWIVT-23">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="QA3_2KCFl8gUlD9wWIVT-18" value="Deep部分改进" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Helvetica;" vertex="1" parent="1">
+        <mxCell id="QA3_2KCFl8gUlD9wWIVT-18" value="Deep部分改进" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Helvetica;fillColor=#67AB9F;" vertex="1" parent="1">
           <mxGeometry x="535" y="690" width="100" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="QA3_2KCFl8gUlD9wWIVT-19" value="Deep&amp;amp;cross" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Helvetica;" vertex="1" parent="1">
+        <mxCell id="QA3_2KCFl8gUlD9wWIVT-19" value="Deep&amp;amp;cross" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Helvetica;fillColor=#9AC7BF;" vertex="1" parent="1">
           <mxGeometry x="120" y="797.5" width="100" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="QA3_2KCFl8gUlD9wWIVT-20" value="DeepFM" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Helvetica;" vertex="1" parent="1">
+        <mxCell id="QA3_2KCFl8gUlD9wWIVT-20" value="DeepFM" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Helvetica;fillColor=#9AC7BF;" vertex="1" parent="1">
           <mxGeometry x="240" y="795" width="100" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="QA3_2KCFl8gUlD9wWIVT-21" value="AFM" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Helvetica;" vertex="1" parent="1">
+        <mxCell id="QA3_2KCFl8gUlD9wWIVT-21" value="AFM" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Helvetica;fillColor=#9AC7BF;" vertex="1" parent="1">
           <mxGeometry x="378.5" y="780" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="QA3_2KCFl8gUlD9wWIVT-42" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;fontFamily=Helvetica;horizontal=1;dashed=1;" edge="1" parent="1" source="QA3_2KCFl8gUlD9wWIVT-22" target="QA3_2KCFl8gUlD9wWIVT-20">
@@ -117,10 +117,10 @@
             <mxPoint x="710" y="840" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="QA3_2KCFl8gUlD9wWIVT-22" value="FM" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Helvetica;" vertex="1" parent="1">
+        <mxCell id="QA3_2KCFl8gUlD9wWIVT-22" value="FM" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Helvetica;fillColor=#67AB9F;" vertex="1" parent="1">
           <mxGeometry x="377" y="850" width="100" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="QA3_2KCFl8gUlD9wWIVT-23" value="NFM" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Helvetica;" vertex="1" parent="1">
+        <mxCell id="QA3_2KCFl8gUlD9wWIVT-23" value="NFM" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Helvetica;fillColor=#9AC7BF;" vertex="1" parent="1">
           <mxGeometry x="660" y="780" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="QA3_2KCFl8gUlD9wWIVT-12" value="用神经网络替代&lt;br&gt;协同过滤的点击操作" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Helvetica;" edge="1" parent="1" source="QA3_2KCFl8gUlD9wWIVT-3" target="QA3_2KCFl8gUlD9wWIVT-1">
@@ -131,10 +131,10 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="QA3_2KCFl8gUlD9wWIVT-47" value="DIN" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="QA3_2KCFl8gUlD9wWIVT-47" value="DIN" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#97D077;" vertex="1" parent="1">
           <mxGeometry x="90" y="525" width="80" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="QA3_2KCFl8gUlD9wWIVT-48" value="&lt;span&gt;AutoRec&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Helvetica;" vertex="1" parent="1">
+        <mxCell id="QA3_2KCFl8gUlD9wWIVT-48" value="&lt;span&gt;AutoRec&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Helvetica;fillColor=#97D077;" vertex="1" parent="1">
           <mxGeometry x="90" y="440" width="80" height="30" as="geometry" />
         </mxCell>
       </root>
