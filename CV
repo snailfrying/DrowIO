@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-09-13T09:03:20.294Z" agent="5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.121 Safari/537.36" etag="4EXuehRb-6S0OLKQZO7z" version="15.1.4" type="github">
+<mxfile host="app.diagrams.net" modified="2021-09-13T09:57:20.346Z" agent="5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.121 Safari/537.36" etag="qW8n0uIBo1R2ZWRkgLm4" version="15.1.4" type="github">
   <diagram id="PXY0_hRiA-eoI8fCnCBJ" name="Page-1">
     <mxGraphModel dx="2249" dy="-416" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -13,13 +13,11 @@
         <mxCell id="ovMOQf3g5AHEbTO39da4-3" value="&lt;div style=&quot;text-align: left&quot;&gt;&lt;span&gt;LeNet_5-1998&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Helvetica;fillColor=#D5E8D4;" vertex="1" parent="1">
           <mxGeometry x="310" y="1840" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="ovMOQf3g5AHEbTO39da4-49" value="&lt;br&gt;&lt;br&gt;&lt;span style=&quot;color: rgb(0 , 0 , 0) ; font-family: &amp;#34;helvetica&amp;#34; ; font-size: 11px ; font-style: normal ; font-weight: 400 ; letter-spacing: normal ; text-align: center ; text-indent: 0px ; text-transform: none ; word-spacing: 0px ; background-color: rgb(255 , 255 , 255) ; display: inline ; float: none&quot;&gt;利用其结构组件进行组装，&lt;/span&gt;&lt;br style=&quot;color: rgb(0 , 0 , 0) ; font-family: &amp;#34;helvetica&amp;#34; ; font-size: 11px ; font-style: normal ; font-weight: 400 ; letter-spacing: normal ; text-align: center ; text-indent: 0px ; text-transform: none ; word-spacing: 0px&quot;&gt;&lt;span style=&quot;color: rgb(0 , 0 , 0) ; font-family: &amp;#34;helvetica&amp;#34; ; font-size: 11px ; font-style: normal ; font-weight: 400 ; letter-spacing: normal ; text-align: center ; text-indent: 0px ; text-transform: none ; word-spacing: 0px ; background-color: rgb(255 , 255 , 255) ; display: inline ; float: none&quot;&gt;然后搜索出最佳结构&lt;/span&gt;&lt;br&gt;" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="ovMOQf3g5AHEbTO39da4-4" target="ovMOQf3g5AHEbTO39da4-31">
-          <mxGeometry x="-0.3333" relative="1" as="geometry">
-            <mxPoint as="offset" />
-          </mxGeometry>
+        <mxCell id="ovMOQf3g5AHEbTO39da4-59" value="Linear Bottlenecks&lt;br&gt;Inverted residuals" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="ovMOQf3g5AHEbTO39da4-4" target="ovMOQf3g5AHEbTO39da4-50">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="ovMOQf3g5AHEbTO39da4-4" value="MobileNet-2017" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Helvetica;fillColor=#D5E8D4;" vertex="1" parent="1">
-          <mxGeometry x="310" y="2380" width="120" height="60" as="geometry" />
+        <mxCell id="ovMOQf3g5AHEbTO39da4-4" value="MobileNetV1-2017" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Helvetica;fillColor=#D5E8D4;" vertex="1" parent="1">
+          <mxGeometry x="-180" y="2520" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="ovMOQf3g5AHEbTO39da4-5" value="&#xa;&#xa;&lt;br style=&quot;color: rgb(0, 0, 0); font-family: helvetica; font-size: 11px; font-style: normal; font-weight: 400; letter-spacing: normal; text-align: center; text-indent: 0px; text-transform: none; word-spacing: 0px;&quot;&gt;&lt;span style=&quot;color: rgb(0, 0, 0); font-family: helvetica; font-size: 11px; font-style: normal; font-weight: 400; letter-spacing: normal; text-align: center; text-indent: 0px; text-transform: none; word-spacing: 0px; background-color: rgb(255, 255, 255); display: inline; float: none;&quot;&gt;conv:3*3&lt;/span&gt;&lt;br style=&quot;color: rgb(0, 0, 0); font-family: helvetica; font-size: 11px; font-style: normal; font-weight: 400; letter-spacing: normal; text-align: center; text-indent: 0px; text-transform: none; word-spacing: 0px;&quot;&gt;&lt;span style=&quot;color: rgb(0, 0, 0); font-family: helvetica; font-size: 11px; font-style: normal; font-weight: 400; letter-spacing: normal; text-align: center; text-indent: 0px; text-transform: none; word-spacing: 0px; background-color: rgb(255, 255, 255); display: inline; float: none;&quot;&gt;Batch Normalization&lt;/span&gt;&#xa;&#xa;" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;fontFamily=Helvetica;" edge="1" parent="1" source="ovMOQf3g5AHEbTO39da4-6" target="ovMOQf3g5AHEbTO39da4-20">
           <mxGeometry relative="1" as="geometry" />
@@ -36,9 +34,6 @@
         <mxCell id="ovMOQf3g5AHEbTO39da4-8" value="NIN-2014" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Helvetica;fillColor=#D5E8D4;" vertex="1" parent="1">
           <mxGeometry x="160" y="1960" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="ovMOQf3g5AHEbTO39da4-25" value="Depthwise and Pointwise layers" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ovMOQf3g5AHEbTO39da4-9" target="ovMOQf3g5AHEbTO39da4-4">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="ovMOQf3g5AHEbTO39da4-9" value="DenseNet-2017" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Helvetica;fillColor=#D5E8D4;" vertex="1" parent="1">
           <mxGeometry x="310" y="2270" width="120" height="60" as="geometry" />
         </mxCell>
@@ -52,7 +47,9 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="ovMOQf3g5AHEbTO39da4-26" value="Group convolution&amp;nbsp;&lt;br&gt;Channel Shuffle" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="ovMOQf3g5AHEbTO39da4-12" target="ovMOQf3g5AHEbTO39da4-16">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry x="0.4359" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="ovMOQf3g5AHEbTO39da4-12" value="ResNet-2015" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Helvetica;fillColor=#D5E8D4;" vertex="1" parent="1">
           <mxGeometry x="310" y="2160" width="120" height="60" as="geometry" />
@@ -67,7 +64,7 @@
           <mxGeometry x="310" y="1960" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="ovMOQf3g5AHEbTO39da4-16" value="ShuffleNet-2017" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Helvetica;fillColor=#D5E8D4;" vertex="1" parent="1">
-          <mxGeometry x="600" y="2160" width="120" height="60" as="geometry" />
+          <mxGeometry x="820" y="2160" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="ovMOQf3g5AHEbTO39da4-17" value="ZFNet-2013" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Helvetica;fillColor=#D5E8D4;" vertex="1" parent="1">
           <mxGeometry x="530" y="1960" width="120" height="60" as="geometry" />
@@ -105,8 +102,11 @@
         <mxCell id="ovMOQf3g5AHEbTO39da4-30" value="Faster R-CNN" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Helvetica;fillColor=#D5E8D4;" vertex="1" parent="1">
           <mxGeometry x="365" y="1550" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="ovMOQf3g5AHEbTO39da4-31" value="EfficientNet" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Helvetica;fillColor=#D5E8D4;" vertex="1" parent="1">
-          <mxGeometry x="170" y="2540" width="120" height="60" as="geometry" />
+        <mxCell id="ovMOQf3g5AHEbTO39da4-58" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="ovMOQf3g5AHEbTO39da4-31" target="ovMOQf3g5AHEbTO39da4-56">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ovMOQf3g5AHEbTO39da4-31" value="EfficientNet-2019" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Helvetica;fillColor=#D5E8D4;" vertex="1" parent="1">
+          <mxGeometry x="190" y="2530" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="ovMOQf3g5AHEbTO39da4-32" value="Yolo" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Helvetica;fillColor=#D5E8D4;" vertex="1" parent="1">
           <mxGeometry x="220" y="1550" width="120" height="60" as="geometry" />
@@ -120,25 +120,48 @@
         <mxCell id="ovMOQf3g5AHEbTO39da4-35" value="conv:卷积&lt;br&gt;maxpool:最大池化&lt;br&gt;avgpool:平均池化&lt;br&gt;relu:激活函数&lt;br&gt;sigmod:二分类&lt;br&gt;softmax:多分类&lt;br&gt;bn:归一化" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;fillColor=#D5E8D4;" vertex="1" parent="1">
           <mxGeometry x="20" y="1475" width="140" height="210" as="geometry" />
         </mxCell>
-        <mxCell id="ovMOQf3g5AHEbTO39da4-48" value="利用其结构组件进行组装，&lt;br&gt;然后搜索出最佳结构" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.617;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="ovMOQf3g5AHEbTO39da4-36" target="ovMOQf3g5AHEbTO39da4-31">
-          <mxGeometry x="0.2974" relative="1" as="geometry">
-            <mxPoint as="offset" />
-          </mxGeometry>
+        <mxCell id="ovMOQf3g5AHEbTO39da4-53" value="&#xa;&#xa;&lt;span style=&quot;color: rgb(0, 0, 0); font-family: helvetica; font-size: 11px; font-style: normal; font-weight: 400; letter-spacing: normal; text-align: center; text-indent: 0px; text-transform: none; word-spacing: 0px; background-color: rgb(255, 255, 255); display: inline; float: none;&quot;&gt;Depthwise and Pointwise layers&lt;/span&gt;&#xa;&#xa;" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="ovMOQf3g5AHEbTO39da4-36" target="ovMOQf3g5AHEbTO39da4-4">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="ovMOQf3g5AHEbTO39da4-36" value="Xnception-2016" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Helvetica;fillColor=#D5E8D4;" vertex="1" parent="1">
           <mxGeometry x="-180" y="2380" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="ovMOQf3g5AHEbTO39da4-45" value="&#xa;&#xa;&lt;span style=&quot;color: rgb(0, 0, 0); font-family: helvetica; font-size: 11px; font-style: normal; font-weight: 400; letter-spacing: normal; text-align: center; text-indent: 0px; text-transform: none; word-spacing: 0px; background-color: rgb(255, 255, 255); display: inline; float: none;&quot;&gt;Squeeze:Global Information Embedding&lt;/span&gt;&lt;br style=&quot;color: rgb(0, 0, 0); font-family: helvetica; font-size: 11px; font-style: normal; font-weight: 400; letter-spacing: normal; text-align: center; text-indent: 0px; text-transform: none; word-spacing: 0px;&quot;&gt;&lt;span style=&quot;color: rgb(0, 0, 0); font-family: helvetica; font-size: 11px; font-style: normal; font-weight: 400; letter-spacing: normal; text-align: center; text-indent: 0px; text-transform: none; word-spacing: 0px; background-color: rgb(255, 255, 255); display: inline; float: none;&quot;&gt;Excitation: Adaptive Recalibration&lt;/span&gt;&#xa;&#xa;" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="ovMOQf3g5AHEbTO39da4-41" target="ovMOQf3g5AHEbTO39da4-36">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry x="0.04" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="ovMOQf3g5AHEbTO39da4-46" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="ovMOQf3g5AHEbTO39da4-41" target="ovMOQf3g5AHEbTO39da4-12">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="ovMOQf3g5AHEbTO39da4-47" value="SENet可结合各个模型框架，&lt;br&gt;进而优化模型" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="ovMOQf3g5AHEbTO39da4-41" target="ovMOQf3g5AHEbTO39da4-9">
+          <mxGeometry x="0.1429" y="-50" relative="1" as="geometry">
+            <mxPoint x="-50" y="-50" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ovMOQf3g5AHEbTO39da4-55" value="&#xa;&#xa;&lt;span style=&quot;color: rgb(0, 0, 0); font-family: helvetica; font-size: 11px; font-style: normal; font-weight: 400; letter-spacing: normal; text-align: center; text-indent: 0px; text-transform: none; word-spacing: 0px; background-color: rgb(255, 255, 255); display: inline; float: none;&quot;&gt;利用其结构组件进行组装，&lt;/span&gt;&lt;br style=&quot;color: rgb(0, 0, 0); font-family: helvetica; font-size: 11px; font-style: normal; font-weight: 400; letter-spacing: normal; text-align: center; text-indent: 0px; text-transform: none; word-spacing: 0px;&quot;&gt;&lt;span style=&quot;color: rgb(0, 0, 0); font-family: helvetica; font-size: 11px; font-style: normal; font-weight: 400; letter-spacing: normal; text-align: center; text-indent: 0px; text-transform: none; word-spacing: 0px; background-color: rgb(255, 255, 255); display: inline; float: none;&quot;&gt;然后搜索出最佳结构&lt;/span&gt;&#xa;&#xa;" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="ovMOQf3g5AHEbTO39da4-41" target="ovMOQf3g5AHEbTO39da4-31">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="ovMOQf3g5AHEbTO39da4-41" value="SENet-2017" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Helvetica;fillColor=#D5E8D4;" vertex="1" parent="1">
-          <mxGeometry x="170" y="2380" width="120" height="60" as="geometry" />
+          <mxGeometry x="190" y="2380" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ovMOQf3g5AHEbTO39da4-60" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="ovMOQf3g5AHEbTO39da4-50" target="ovMOQf3g5AHEbTO39da4-51">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ovMOQf3g5AHEbTO39da4-50" value="MobileNetV2-2019" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Helvetica;fillColor=#D5E8D4;" vertex="1" parent="1">
+          <mxGeometry x="-180" y="2630" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ovMOQf3g5AHEbTO39da4-57" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="ovMOQf3g5AHEbTO39da4-51" target="ovMOQf3g5AHEbTO39da4-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ovMOQf3g5AHEbTO39da4-51" value="MobileNetV3-2019" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Helvetica;fillColor=#D5E8D4;" vertex="1" parent="1">
+          <mxGeometry x="10" y="2630" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ovMOQf3g5AHEbTO39da4-52" value="ResNetXt" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Helvetica;fillColor=#D5E8D4;" vertex="1" parent="1">
+          <mxGeometry x="485" y="2160" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ovMOQf3g5AHEbTO39da4-56" value="FixEfficientNet-2020" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Helvetica;fillColor=#D5E8D4;" vertex="1" parent="1">
+          <mxGeometry x="190" y="2620" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
