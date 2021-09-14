@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-09-14T04:31:50.066Z" agent="5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.121 Safari/537.36" etag="wzoH4bsWiqGkS5APna6X" version="15.1.4" type="github">
+<mxfile host="app.diagrams.net" modified="2021-09-14T05:43:14.702Z" agent="5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.121 Safari/537.36" etag="z6TGZOeBkfFfjYVkBVtY" version="15.1.4" type="github">
   <diagram id="PXY0_hRiA-eoI8fCnCBJ" name="Page-1">
     <mxGraphModel dx="2249" dy="-416" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -130,7 +130,10 @@
         <mxCell id="ovMOQf3g5AHEbTO39da4-31" value="EfficientNet-2019" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Helvetica;fillColor=#67AB9F;" vertex="1" parent="1">
           <mxGeometry x="190" y="2560" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="ovMOQf3g5AHEbTO39da4-32" value="Yolo-2016" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Helvetica;fillColor=#D5E8D4;" vertex="1" parent="1">
+        <mxCell id="ovMOQf3g5AHEbTO39da4-100" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="ovMOQf3g5AHEbTO39da4-32" target="ovMOQf3g5AHEbTO39da4-94">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ovMOQf3g5AHEbTO39da4-32" value="Yolo_v1-2016" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Helvetica;fillColor=#CC6600;" vertex="1" parent="1">
           <mxGeometry x="380" y="2870" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="ovMOQf3g5AHEbTO39da4-67" value="强化学习-移动平台网络搜索算法" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="ovMOQf3g5AHEbTO39da4-33" target="ovMOQf3g5AHEbTO39da4-61">
@@ -140,7 +143,7 @@
           <mxGeometry x="10" y="2870" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="ovMOQf3g5AHEbTO39da4-34" value="deepMInd-2016" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Helvetica;fillColor=#67AB9F;" vertex="1" parent="1">
-          <mxGeometry x="707" y="2560" width="120" height="60" as="geometry" />
+          <mxGeometry x="690" y="2560" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="ovMOQf3g5AHEbTO39da4-53" value="&#xa;&#xa;&lt;span style=&quot;color: rgb(0, 0, 0); font-family: helvetica; font-size: 11px; font-style: normal; font-weight: 400; letter-spacing: normal; text-align: center; text-indent: 0px; text-transform: none; word-spacing: 0px; background-color: rgb(255, 255, 255); display: inline; float: none;&quot;&gt;Depthwise and Pointwise layers&lt;/span&gt;&#xa;&#xa;" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="ovMOQf3g5AHEbTO39da4-36" target="ovMOQf3g5AHEbTO39da4-4">
           <mxGeometry relative="1" as="geometry">
@@ -239,6 +242,36 @@
         </mxCell>
         <mxCell id="ovMOQf3g5AHEbTO39da4-92" value="EfficientDet-2020" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Helvetica;fillColor=#97D077;" vertex="1" parent="1">
           <mxGeometry x="190" y="2760" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ovMOQf3g5AHEbTO39da4-101" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="ovMOQf3g5AHEbTO39da4-94" target="ovMOQf3g5AHEbTO39da4-95">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ovMOQf3g5AHEbTO39da4-94" value="Yolo_v2-2016" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Helvetica;fillColor=#FF8000;" vertex="1" parent="1">
+          <mxGeometry x="550" y="2870" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ovMOQf3g5AHEbTO39da4-102" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="ovMOQf3g5AHEbTO39da4-95" target="ovMOQf3g5AHEbTO39da4-96">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ovMOQf3g5AHEbTO39da4-95" value="Yolo_v3-2018" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Helvetica;fillColor=#FF9933;" vertex="1" parent="1">
+          <mxGeometry x="550" y="2760" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ovMOQf3g5AHEbTO39da4-103" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="ovMOQf3g5AHEbTO39da4-96" target="ovMOQf3g5AHEbTO39da4-98">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ovMOQf3g5AHEbTO39da4-96" value="Yolo_v4-2020" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Helvetica;fillColor=#FFB366;" vertex="1" parent="1">
+          <mxGeometry x="690" y="2870" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ovMOQf3g5AHEbTO39da4-97" value="Yolox-2021" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Helvetica;fillColor=#FFE6CC;" vertex="1" parent="1">
+          <mxGeometry x="690" y="2660" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ovMOQf3g5AHEbTO39da4-104" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="ovMOQf3g5AHEbTO39da4-98" target="ovMOQf3g5AHEbTO39da4-97">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ovMOQf3g5AHEbTO39da4-98" value="Yolo_v5-2021" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Helvetica;fillColor=#FFCC99;" vertex="1" parent="1">
+          <mxGeometry x="690" y="2760" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ovMOQf3g5AHEbTO39da4-99" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="ovMOQf3g5AHEbTO39da4-95" target="ovMOQf3g5AHEbTO39da4-95">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
